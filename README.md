@@ -23,13 +23,13 @@ These instructions will help you get a copy of the project up and running on you
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/rohanps630/calculator.git
+   git clone https://github.com/rohanps630/Calculator-Flutter.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd calculator
+   cd Calculator-Flutter
    ```
 
 3. Install dependencies:
